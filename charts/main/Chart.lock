@@ -4,6 +4,6 @@ dependencies:
   version: 25.0.0
 - name: mongodb-atlas-operator
   repository: https://mongodb.github.io/helm-charts
-  version: 1.7.1
-digest: sha256:fcf2bc3386c69c770c72a9fd7fba01cca3e731977e379601de5e208188a18c13
-generated: "2023-09-29T16:58:08.663577901-04:00"
+  version: 1.8.2
+digest: sha256:dc149563f42f215ae52700a985dcbc4e2a54f1b5439817024ef2a10aad66e554
+generated: "2023-09-29T16:58:11.861308455-04:00"
